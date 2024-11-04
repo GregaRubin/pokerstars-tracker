@@ -18,7 +18,8 @@ The website offers the following functionalities:
 + A leaderboard for public users
 ![image alt](https://github.com/GregaRubin/pokerstars-tracker/blob/main/2.PNG?raw=true)
 ## Installation
-1. Downloand and install Node.js and npm (https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
-2. Clone the github repository
-3. Run 'npm install' inside the frontend and backend folders
-4. Run 'npm start' inside the frontend and backend folders
+1. Download and install Node.js and npm (https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+2. Download MongoDB Community Edition and install it as a Service (https://www.mongodb.com/try/download/community)
+3. Clone the github repository
+4. Run 'npm install' inside the frontend and backend folders
+5. Run 'npm start' inside the frontend and backend folders
