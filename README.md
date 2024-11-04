@@ -4,7 +4,7 @@
 
 ## A web app for tracking poker stats made with MERN Stack
 
-PokerStarts Tracker is website for all PokerStars enthusiasts who need a tool for improving and documenting their poker journey. The backend API server is made with Express.js and uses mongoDB for storage. The frontend server is made with React. 
+PokerStarts Tracker is website for all PokerStars enthusiasts who need a tool for improving and documenting their poker journey. The backend API server is made with Express.js and uses mongoDB for storage. Pokerstars logs are parsed with a custom made python script to extract the relevant information. The frontend server is made with React. 
 ![image alt](https://github.com/GregaRubin/pokerstars-tracker/blob/main/1.PNG?raw=true)
 
 ## PokerStars Tracker features
