@@ -1,5 +1,5 @@
-# PokerStars Tracker
-![image alt](https://github.com/GregaRubin/pokerstars-tracker/blob/main/PokerStars_Tracker.png?raw=true)
+
+![image alt](https://github.com/GregaRubin/pokerstars-tracker/blob/main/bannerMed.png?raw=true){ width="800" height="600" style="display: block; margin: 0 auto" }
 
 ## A web app for tracking poker stats made with MERN Stack
 
